@@ -9,4 +9,6 @@ opt : master opt file
 opt : master fix2
  
 opt : opt on dev
-opt : dev fix 1.txt 	
+opt : dev fix 1.txt 
+
+opt : 2 > master	
