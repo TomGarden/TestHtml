@@ -13,3 +13,7 @@ opt : dev fix 1.txt
 
 
 opt : 1 >  dev
+
+opt : 3 > dev
+
+
